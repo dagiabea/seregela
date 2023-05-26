@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "seregela-gebeya",
+    "prod": "seregela-gebeya",
+    "production": "seregela-gebeya"
+  },
+  "targets": {},
+  "etags": {}
+}
